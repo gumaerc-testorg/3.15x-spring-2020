@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Close-up photo of a green circuit board with several connectors marked
     1RO and large black square chip.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: MIT3-15x-th.jpg
