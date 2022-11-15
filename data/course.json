@@ -47,7 +47,10 @@
     "content": "cacead6c-216b-239a-a6c5-7575fbb5dc7a",
     "website": "3-15x-electrical-optical-and-magnetic-materials-and-devices-spring-2020"
   },
-  "learning_resource_types": [],
-  "site_uid": "033b0d6b-b5c8-457d-991a-d36e21606316",
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "site_uid": "78a4eefd-fc38-43d1-9962-37ccf4b7d690",
+  "short_id": "3.15x-spring-2020",
   "title": "Course Metadata"
 }
