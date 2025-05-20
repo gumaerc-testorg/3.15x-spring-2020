@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-15x-electrical-optical-and-magnetic-materials-and-devices-spring-2020/cacead6c216b239aa6c57575fbb5dc7a_MIT3-15x-th.jpg
+file: /courses/3-15x-electrical-optical-and-magnetic-materials-and-devices-spring-2020/cacead6c216b239aa6c57575fbb5dc7a_MIT3-15x-th.jpg
 file_size: 36418
 file_type: image/jpeg
 image_metadata:
