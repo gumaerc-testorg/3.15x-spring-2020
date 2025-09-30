@@ -5,8 +5,9 @@ file: /ol-ocw-studio-app/courses/3-15x-electrical-optical-and-magnetic-materials
 file_size: 36418
 file_type: image/jpeg
 image_metadata:
-  caption: 'Close-up of an electric circuit board. (Courtesy of [Sridhar Srinivasan](https://www.flickr.com/photos/ssri/2897295914/)
-    on Flickr. License: CC BY-NC-SA.)'
+  caption: 'Close-up of an electric circuit board. (Courtesy of {{% resource_link
+    "ef4b596f-0677-461c-b198-6417baf29c0e" "Sridhar Srinivasan" %}} on Flickr. License:
+    CC BY-NC-SA.)'
   credit: ''
   image-alt: Close-up photo of a green circuit board with several connectors marked
     1RO and large black square chip.
